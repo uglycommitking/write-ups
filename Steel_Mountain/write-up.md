@@ -47,6 +47,15 @@ show payload options
 LHOST ->
 ```
 
+##### Заметка:
+```
+Когда убрал meterpreter в background
+
+sessions -l
+sessions -i 1 (возвращаемся в выполнение)
+```
+
+
 #### gained access
 ```
 shell
