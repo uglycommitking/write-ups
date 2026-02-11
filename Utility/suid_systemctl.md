@@ -2,7 +2,7 @@
 
 ## Useful link: https://gtfobins.org/
 
-## Подготовка файла
+## Подготовка файла для systemctl
 
 ```bash
 [Unit]
